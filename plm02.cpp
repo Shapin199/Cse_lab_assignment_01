@@ -1,3 +1,7 @@
+/**
+ *    author:  Mohammad Irtisum
+ *    created: 27.01.2023        
+**/
 #include<bits/stdc++.h>
 using namespace std;
 class student
